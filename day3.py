@@ -8,6 +8,7 @@ abcList = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","
 abcDict = {}
 
 
+
 def abcDictFiller():
     i = 0
     for letters in abcList:
@@ -47,6 +48,8 @@ def part1MainBody():
         temp += result
     return print(temp)
 
+
+
 #part 2
 
 
@@ -72,6 +75,8 @@ def part2MainBody():
     return print(temp)
 
 part2MainBody()
+
+
 
 
 

@@ -1,5 +1,5 @@
 from common import read_file
-input = read_file("day4/day4input2.txt")
+input = read_file("day4/day4input.txt")
 
 splittedList = input.split("\n")
 
